@@ -1,0 +1,15 @@
+.gameDiv{
+    font-size: 25px;
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+    margin-right: 25px;
+}
+
+#resetBtn{
+    text-align: center;
+    margin-left: 650px;
+    margin-top: 20px;
+}
